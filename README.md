@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6F5E&height=180&section=header&text=Merhaba,%20ben%20%C5%9Eule%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2F6F5E&center=true&vCenter=true&width=650&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%92%BB;AI+%2B+Computer+Vision+meraklisi+%F0%9F%94%8D;CLIP+%2B+FAISS+ile+multimodal+arama;Yeni+f%C4%B1rsatlara+a%C3%A7%C4%B1%C4%B1m+%F0%9F%9A%80" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2F6F5E&center=true&vCenter=true&width=650&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%92%BB;AI+%2B+Computer+Vision+meraklisi+%F0%9F%94%8D;CLIP+%2B+FAISS+ile+multimodal+arama;Yeni+f%C4%B1rsatlara+a%C3%A7%C4%B1%C4%9F%C4%B1m+%F0%9F%9A%80" alt="typing-svg" />
 
 </div>
 
